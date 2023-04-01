@@ -32,3 +32,13 @@ int main(){
     user appUser = user("John","Doe");
     cout<<"This is [[food ordering app]]; Hello "<<appUser.getName();
 }
+
+
+class Product
+{
+    public:
+        string productName;
+        float productPrice;
+    
+};
+
